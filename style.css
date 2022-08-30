@@ -1,0 +1,233 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-attachment: fixed;
+  border: 1px solid gray;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
+.con1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input {
+  padding: 12px;
+  border-radius: 10px;
+  width: 300px;
+}
+.img1 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.con3 a {
+  font-size: 30px;
+  padding-right: 35px;
+}
+.fa-house {
+  color: black;
+}
+.fa-comment-dots {
+  color: black;
+}
+.fa-square-plus {
+  color: black;
+}
+.fa-heart {
+  color: black;
+}
+.con3 {
+  display: flex;
+}
+.container2 {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+#taj {
+  margin-right: 30vh;
+  font-size: 22px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.img2 {
+  position: relative;
+  right: 15px;
+  width: 300px;
+  height: 300px;
+  border-radius: 180px;
+}
+.cont1 {
+  padding: 5px;
+  border: 10px solid orangered;
+  position: relative;
+  top: 200px;
+  right: 60px;
+  background-color: #528ac2;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  margin-right: 200px;
+}
+.cont2 {
+  display: flex;
+  align-items: center;
+}
+.cont3 {
+  display: flex;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 100;
+}
+.cont4 {
+  padding-top: 5vh;
+  margin-left: 80vh;
+}
+.a {
+  text-decoration: none;
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+
+.p2 {
+  font-size: 25px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 8px;
+  margin-right: 20px;
+}
+.pp2 {
+  text-align: center;
+  font-size: 25px;
+  width: 60px;
+  border-radius: 8px;
+  border: 1px solid black;
+  padding: 5px;
+  padding-top: 10px;
+  padding: bottom 10px;
+  margin-right: 20px;
+}
+.ppp2 {
+  font-size: 25px;
+  border: 1px solid black;
+  margin-right: 20px;
+  padding: 8px;
+  text-align: center;
+  padding-right: 10px;
+  padding-left: 10px;
+  border-radius: 8px;
+}
+.pppp2 {
+  font-size: 40px;
+}
+.post {
+  padding-right: 25px;
+}
+.followers {
+  padding-right: 25px;
+}
+.car {
+  font-size: 25px;
+}
+.autoclub {
+  font-size: 22px;
+  color: gray;
+}
+.hot {
+  font-size: 20px;
+}
+.container3 {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+.img3 {
+  margin-right: 80px;
+  margin-top: 30vh;
+  width: 10%;
+  border-radius: 50%;
+  border: 4px solid black;
+}
+.Stn {
+  width: 100%;
+  height: 2px;
+  color: gray;
+  background-color: gray;
+  text-align: start;
+  padding-top: 8px;
+  border-radius: 10px;
+}
+.container4 {
+  display: flex;
+  width: 50%;
+  margin: auto;
+  justify-content: space-between;
+}
+.aaa {
+  border-bottom: 5px solid;
+}
+.post1 {
+  display: flex;
+  opacity: 1;
+}
+.post1:hover {
+  opacity: 0.7;
+}
+.post4 {
+  display: flex;
+  opacity: 1;
+}
+.post4:hover {
+  opacity: 0.7;
+}
+.post7 {
+  display: flex;
+  opacity: 1;
+}
+.post7:hover {
+  opacity: 0.7;
+}
+.container5 img {
+  width: 300px;
+  height: 300px;
+  padding: 15px;
+}
+.container5 {
+  margin-left: 40vh;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+.icon2 i{
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    display: none;
+}
+.container5:hover .icon2 i{
+    display: block;
+}
+.icon i{
+    position: absolute;
+    top: 50%;
+    left: 28%;
+    display: none;
+}
+.container5:hover .icon2 i{
+    display: block;
+}
